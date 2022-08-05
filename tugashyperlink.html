@@ -23,9 +23,9 @@
 	<ol>
 		<li><a href="https://www.wattpad.com/story/162526316-%E2%9C%94-1-dear-j">Dear J</a> berceritakan tentang seorang lelaki tak sempurna pengagum hujan dan sajak.</li><center><img src="image\dearj cover.jpg" alt="image" style="width:150px;"></center>
 	
-		<li><a href="https://www.watpad.com/story/126099623-pelik-sudah-terbit">Pelik: Haruskah aku relain kamu dengannya?</a> ini tantang Rayn yang belum pernah jatuh cinta. Gimana mau jatuh cinta kalau ngenali muka orang saja enggak bisa. Ia mengidap <em>face-blindness</em> yang dirahasiakannya mati-matiaan.</li><center><img src="image\pelik cover.jpg" alt="image" style="width:150px;"></center>
+		<li><a href="https://w.tt/3Q9QHM0">Pelik: Haruskah aku relain kamu dengannya?</a> ini tantang Rayn yang belum pernah jatuh cinta. Gimana mau jatuh cinta kalau ngenali muka orang saja enggak bisa. Ia mengidap <em>face-blindness</em> yang dirahasiakannya mati-matiaan.</li><center><img src="image\pelik cover.jpg" alt="image" style="width:150px;"></center>
 
-		<li><a href="https://www.watpad.com/story/168758321-clair-sudah-terbit">CLAIR: The Death that Brings Us Closer</a> kisah tentang Rea Rafanda, siswi kelas 12 yang memiliki kemampuan <em>clairtangency</em>. Ia dapat membaca kenangan melalui sentuhan tangan.</li><center><img src="image\clair cover.jpg" alt="image," style="width:150px;"></center>
+		<li><a href="https://w.tt/3Jw4mdD">CLAIR: The Death that Brings Us Closer</a> kisah tentang Rea Rafanda, siswi kelas 12 yang memiliki kemampuan <em>clairtangency</em>. Ia dapat membaca kenangan melalui sentuhan tangan.</li><center><img src="image\clair cover.jpg" alt="image," style="width:150px;"></center>
 	</ol>
 	<p style="text-indent:0.5in; text-align:justify">Ketiga cerita diatas bisa bikin kamu senewen enggak jelas. Marah, kesal, sedih, bahkan kamu akan dibuat jatuh hati pada karakter utama. Setelah membacanya saya yakin kamu akan ingin menjadi seperti Jung Jeha yang dicintai banyak orang, seperti Rea Rafanda yang mempunyai kemampuan istimewa. Tapi saya enggak yakin kamu mau menjadi seperti Megan Naja Nitisara yang kisah cintanya sungguh pelik.</p>
 	<br>
