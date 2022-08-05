@@ -17,8 +17,8 @@
 	</strong></em>
 	</center>
 <hr>
-	<p style="text-indent:0.5in;">Tidak ada penulis yang dengan sengaja ingin membuat bosan pembacanya. Tapi pada kenyataannya, banyak cerita bikin bosan dan mengecewakan. Alur yang amburadul, POV yang tidak konsisten, juga karakterisasi tokoh yang lemah. Membacanya bikin buang-buang waktu. Kamu pasti pernah menemukan cerita seperti itu, bukan?</p>
-	<p style="text-indent:0.5in;">Karena saya perduli dengan waktu berharga kamu, maka saya buatkan halaman ini untuk para pembaca yang tidak ingin waktunya terbuang sia-sia.
+	<p style="text-indent:0.5in; text-align:justify">Tidak ada penulis yang dengan sengaja ingin membuat bosan pembacanya. Tapi pada kenyataannya, banyak cerita bikin bosan dan mengecewakan. Alur yang amburadul, POV yang tidak konsisten, juga karakterisasi tokoh yang lemah. Membacanya bikin buang-buang waktu. Kamu pasti pernah menemukan cerita seperti itu, bukan?</p>
+	<p style="text-indent:0.5in; text-align:justify">Karena saya perduli dengan waktu berharga kamu, maka saya buatkan halaman ini untuk para pembaca yang tidak ingin waktunya terbuang sia-sia.
 	Ini dia top 3 cerita Wattpad terbaik versi saya. Sudah lolos tahap seleksi dari banyaknya cerita yang pernah saya baca.</p>
 	<ol>
 		<li><a href="https://www.wattpad.com/story/162526316-%E2%9C%94-1-dear-j">Dear J</a> berceritakan tentang seorang lelaki tak sempurna pengagum hujan dan sajak.</li><center><img src="image\dearj cover.jpg" alt="image" style="width:150px;"></center>
@@ -27,7 +27,7 @@
 
 		<li><a href="https://www.watpad.com/story/168758321-clair-sudah-terbit">CLAIR: The Death that Brings Us Closer</a> kisah tentang Rea Rafanda, siswi kelas 12 yang memiliki kemampuan <em>clairtangency</em>. Ia dapat membaca kenangan melalui sentuhan tangan.</li><center><img src="image\clair cover.jpg" alt="image," style="width:150px;"></center>
 	</ol>
-	<p style="text-indent:0.5in;">Ketiga cerita diatas bisa bikin kamu senewen enggak jelas. Marah, kesal, sedih, bahkan kamu akan dibuat jatuh hati pada karakter utama. Setelah membacanya saya yakin kamu akan ingin menjadi seperti Jung Jeha yang dicintai banyak orang, seperti Rea Rafanda yang mempunyai kemampuan istimewa. Tapi saya enggak yakin kamu mau menjadi seperti Megan Naja Nitisara yang kisah cintanya sungguh pelik.</p>
+	<p style="text-indent:0.5in; text-align:justify">Ketiga cerita diatas bisa bikin kamu senewen enggak jelas. Marah, kesal, sedih, bahkan kamu akan dibuat jatuh hati pada karakter utama. Setelah membacanya saya yakin kamu akan ingin menjadi seperti Jung Jeha yang dicintai banyak orang, seperti Rea Rafanda yang mempunyai kemampuan istimewa. Tapi saya enggak yakin kamu mau menjadi seperti Megan Naja Nitisara yang kisah cintanya sungguh pelik.</p>
 	<br>
 	Selamat membaca dan selamat bermuram durja.
 <p style="text-align:right;color:darkorange;"><strong>Salam Literasi!</strong></p>
